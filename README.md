@@ -1,3 +1,7 @@
+## Deployed application
+
+https://inventory-mlb1.vercel.app/
+
 
 ## Getting Started
 
